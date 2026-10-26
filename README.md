@@ -17,4 +17,4 @@ qa-payments-automation-python/
 ├── mock_server.py                # Local stateful FastAPI mock server for the Payments API
 ├── pytest.ini                    # Pytest configuration & custom test markers
 └── requirements.txt              # Project dependencies# qa-payments-automation-python-
-interview demo
+
